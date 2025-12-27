@@ -1,5 +1,32 @@
 # 💫 About Me:
-Create a clean, professional GitHub profile README using the sections below.<br>Keep it concise, technical, and impact-focused. No generic buzzwords.<br><br>Sections to include:<br><br>🛠️ I'm currently working on:<br>- Mention 1–2 concrete projects (with tech stack and goal).<br>- Focus on problems you're solving, not vague learning.<br><br>🤝 I'm looking to collaborate on:<br>- Specific domains (AI/ML, Web Dev, Open Source, etc.).<br>- Clearly state what kind of collaborators you want.<br><br>🧠 I'm looking for help with:<br>- Real challenges you're stuck on (scaling, optimization, system design, etc.).<br>- Avoid beginner-level noise.<br><br>🌱 I'm currently learning:<br>- Technologies or concepts with intent (e.g., “Deep Learning for Computer Vision”).<br>- No laundry lists.<br><br>💬 Ask me about:<br>- Topics you actually understand well enough to discuss.<br>- If you can’t explain it, don’t list it.<br><br>⚡ Fun fact:<br>- One short, human detail (optional, non-cringe).<br><br>Tone:<br>- Confident, technical, direct.<br>- No emojis overload.<br>- No “passionate learner” clichés.<br><br>Output format:<br>- Markdown<br>- Clean bullet points<br>- Ready to paste into README.md<br>
+# Hi, I'm jamal👋
+
+## 🛠️ I'm currently working on
+- **AI-Powered Analytics Dashboard**: Building a data visualization platform using **Python (FastAPI, Pandas, Plotly)** to process large datasets and deliver actionable insights for business decision-making.  
+- **Scalable Recommendation Engine**: Developing a **PyTorch + PostgreSQL** pipeline to serve personalized content recommendations, optimized for low-latency queries.
+
+## 🤝 I'm looking to collaborate on
+- **AI/ML research projects** where practical deployment matters (model compression, inference optimization).  
+- **Open Source contributions** in backend systems, distributed computing, or developer tooling.  
+- Collaborators who bring strong system design or optimization expertise.
+
+## 🧠 I'm looking for help with
+- **Scaling ML pipelines** to handle millions of requests efficiently.  
+- **Optimizing database queries** for recommendation systems under heavy concurrent load.  
+- **Distributed system design** for fault-tolerant, high-availability applications.
+
+## 🌱 I'm currently learning
+- **Deep Learning for Computer Vision**, focusing on transformer-based architectures for image classification and segmentation.  
+- **Cloud-native deployment strategies** with Kubernetes for ML workloads.
+
+## 💬 Ask me about
+- **Machine Learning model deployment** (Docker, FastAPI, CI/CD).  
+- **Data preprocessing and feature engineering** for large-scale analytics.  
+- **System design trade-offs** in building scalable backend architectures.
+
+## ⚡ Fun fact
+- I once debugged a production issue by tracing a single misplaced semicolon in 10k+ lines of SQL.
+
 
 
 ## 🌐 Socials:
